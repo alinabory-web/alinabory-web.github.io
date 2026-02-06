@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background: #f5f5f5;
+  color: #333;
+  text-align: center;
+}
+
+.hero {
+  background: linear-gradient(135deg, #ff7a00, #ffb347);
+  color: white;
+  padding: 70px 20px;
+}
+
+section {
+  background: white;
+  margin: 20px;
+  padding: 30px 20px;
+  border-radius: 12px;
+}
+
+h1, h2 {
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 8px 0;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 28px;
+  background: #222;
+  color: white;
+  text-decoration: none;
+  border-radius: 30px;
+}
+
+footer {
+  padding: 20px;
+  font-size: 14px;
+  color: #777;
+}
